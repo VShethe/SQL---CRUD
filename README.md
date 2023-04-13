@@ -13,7 +13,7 @@ D - Delete
 
 **1. SQL: CRUD**
  - Inserting_Data.sql
- - 
+ - CRUD_Exercise.sql
 
 ## Project Description
 
